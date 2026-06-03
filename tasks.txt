@@ -1,0 +1,4 @@
+study gate[Completed]
+Study DSA& C:/Users/S.Vaishnavi/AppData/Local/Programs/Python/Python311-arm64/python.exe "c:/Users/S.Vaishnavi/Desktop/To-Do list project/main.py"[Completed]
+study java[Completed]
+study c language[Completed]
